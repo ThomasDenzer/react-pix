@@ -25,4 +25,5 @@ yarn-error.log*
 .prettierrc.js
 
 # API Keys
+/API
 unsplash.js
